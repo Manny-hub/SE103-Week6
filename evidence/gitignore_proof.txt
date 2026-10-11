@@ -1,0 +1,16 @@
+Student Name: Ayomide Adeyeye
+
+Patterns in my .gitignore:
+
+ `.DS_Store`
+ `.log`
+ `temp/`
+ `secret.env`
+
+What git status showed about the ignored files:
+
+Git status showed that files and folders matching the patterns in my `.gitignore` file were excluded from the list of untracked files. This helps keep temporary files, log files, and sensitive configuration files out of version control. However, `.gitignore` does not automatically stop Git from tracking files that have already been committed.
+
+Why committing secrets is dangerous:
+
+Committing secrets such as passwords, API keys, or database credentials can expose sensitive information to unauthorized people. Anyone who gains access to these secrets could misuse them to access systems or data. Even if the secrets are later deleted, they may remain in the Git history. Therefore, secrets should be stored securely in environment variables or a secrets manager, and any exposed credentials should be revoked or rotated immediately.
