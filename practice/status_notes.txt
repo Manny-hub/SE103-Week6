@@ -1,0 +1,9 @@
+Student Name: Ayomide Adeyeye
+
+What I check before committing:
+
+Before committing, I check the files I have changed using `git status` and review the changes with `git diff`. I ensure that the code is correct, relevant, and free from unnecessary changes. I also run any necessary tests and confirm that I am not committing sensitive information or unwanted files.
+
+What I am committing now and why:
+
+I am committing my current changes because they are relevant, reviewed, and ready to be saved in the project history. This helps me track my progress and makes it easier to identify or reverse changes when necessary.
