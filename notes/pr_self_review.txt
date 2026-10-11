@@ -1,0 +1,17 @@
+Student Name: Ayomide Adeyeye
+
+What changed:
+
+I improved my project documentation and organized my Git workflow. I also used clear commit messages and a `.gitignore` file to keep the repository clean and manageable.
+
+How I verified the change:
+
+I used `git status` to check the state of my working directory and `git diff` to review my changes. I also confirmed that the files I intended to commit were correct and that unnecessary or sensitive files were excluded.
+
+One possible improvement a reviewer might suggest:
+
+A reviewer might suggest adding automated tests to verify the changes and improve reliability. They might also recommend making the documentation more detailed so that other developers can understand the project more easily.
+
+Professional response I would give:
+
+Thank you for the feedback. I will review the suggestions, implement the necessary improvements, and test the changes to ensure the project remains reliable and maintainable.
