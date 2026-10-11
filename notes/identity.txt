@@ -1,0 +1,5 @@
+Full Name: Ayomide Adeyeye
+GitHub Username: Manny-hub
+Date Started: 11/10/2026
+Auth Method: SSH - git@github.com:Manny-hub/SE103-Week6.git
+One Git habit I want to improve: pushing more often and clear 
